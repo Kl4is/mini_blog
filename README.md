@@ -1,4 +1,4 @@
-# delete
+# mini_blog
 
 ## Project setup
 ```
